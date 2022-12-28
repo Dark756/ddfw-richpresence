@@ -1,5 +1,4 @@
-print "qb-richpresence made by Pengu Script"
-print "version 1.0"
+print("^2DDFW^7-^richpresence  ^7 ^2richpresence Script by ^1DARK DEVIL^7")
 Config = {}
 
 Config.DiscordLink = "https://discord.gg/BpxwSQEQgP" -- Discord Server Join Link
